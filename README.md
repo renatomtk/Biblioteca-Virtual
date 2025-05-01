@@ -8,4 +8,4 @@ Para complementar os Graphs, foi implementado o algoritmo de Djikstra para deter
 
 O grafo gerado pelo código será como o da imagem abaixo:
 
-![graph v2](https://github.com/user-attachments/assets/ace04ef1-31e8-41d1-a72d-ecd4d0f720b2)
+![graph](https://github.com/user-attachments/assets/309ae82f-10b5-40f9-91fe-13737840d143)
